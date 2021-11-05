@@ -14,5 +14,11 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "apollo-server-express": "^3.4.1",
+    "express": "^4.17.1",
+    "graphql": "^16.0.1",
+    "mongoose": "^6.0.12"
   }
 }
